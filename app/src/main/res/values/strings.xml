@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">干货集中营</string>
+    <string name="menu_search">查找</string>
+    <string name="menu_notifications">通知</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_about_us">关于</string>
+
+    <string name="item_01">更多</string>
+    <string name="item_02">关于</string>
+    <string name="item_03">复制链接</string>
+</resources>
